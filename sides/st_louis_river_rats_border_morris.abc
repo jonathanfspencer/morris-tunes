@@ -1,0 +1,36 @@
+%abc-2.1
+
+X:1
+T:Jolly Beggarman
+C:St. Louis River Rats
+M:4/4
+L:1/8
+Q:1/4=120
+K:C
+P:Part A
+ EG [| "Am"A2 AB AGEG | A2 AB "C"c2 cd | "Em"e2 ef edcA | "G"B2 AG "Am"A4- |\
+M:2/4
+ A2 EG | 
+M:4/4
+ "Am"AGAB AGEG | AGAB "C"c2 cd | "Em"e2 ef edcA | "G"B2 AG "Am"A4 |\
+M:2/4
+ ABcd ||
+M:4/4
+P:Part B
+ "C"e2 ef edce | "G"dedc B2 AB | "Am"cdcB A cBA | "Em"G2 E2 "(E)"E4- |\
+M:2/4
+E2 EG |
+M:4/4
+ "Am"AGAB AGEG | AGAB "C"c2 cd | "Em"e2 ef edcA | "G"B2 AG "Am"A4- |\
+M:2/4
+ A2 |]
+
+X:2
+T:Peacock's Feather Hornpipe (Infernal Triangle)
+C:St. Louis River Rats
+M:2/4
+L:1/8
+Q:1/4=120
+K:D
+P: Part A
+B>A | G2 F>G E>^D E>F | G>F G>B A2 G>A | 
