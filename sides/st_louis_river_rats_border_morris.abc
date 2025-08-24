@@ -33,9 +33,9 @@ L:1/8
 Q:1/4=120
 K:D
 P: Part A
-B>A [| G2 F>G E>^D E>F | G>F G>B A2 G>A | B>e e>f e>d B>A| G2 B>G | 
-F2 B>A | G2 F>G E>^D E>F | G>F G>B A2 G>A | B>e e>f e>d B>A| G2 F>G | E2 B>c || 
+B>A [| "Em"G2 F>G | E>^D E>F | G>F G>B |"D"A2 G>A | "Em"B>e e>f | e>d B>A| "G"G2 B>G | "B"F2 B>A | 
+"Em"G2 F>G | E>^D E>F | G>F G>B |"D"A2 G>A | "Em"B>e e>f | e>d B>A| "B"G2 "D"F>G | "Em"E2 B>c || 
 P: Part B
-d>cd>c | e3 f | e>d B>G | A2 B>c d>c | d>c e>d | B>A G2 | B>G F2 | 
-B>A | G2 F>G E>^D E>F | G>F G>B A2 G>A |  B>e e>f e>d B>A| G2 F>G | E2|]
+"D"d>c d>c | "Em"e3 f | e>d B>G | "D"A2 B>c | d>c d>c | "Em"e>d B>A | "G"G2  B>G | "B"F2 B>A | 
+"Em"G2 F>G | E>^D E>F | G>F G>B | "D"A2 G>A | "Em"B>e e>f | e>d B>A| "B"G2 "D"F>G | "Em"E2|]
 
